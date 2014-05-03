@@ -1,0 +1,31 @@
+body
+{
+	background: black url(BG.jpg) no-repeat top right;
+}
+
+h1
+{
+	font-variant: small-caps;
+	font-family: "Georgia", "Times New Roman", sans-serif;
+	color: #fff; 
+}
+
+h2
+{
+	text-align: center;
+	font-family: "Helvetica Neue", sans-serif;
+	color: #fff; 
+}
+
+p
+{
+	text-align: center;
+	font-family: "Helvetica Neue", sans-serif;
+	color: #fff; 
+}
+
+a
+{
+	text-decoration: none;
+	color: #fff; 
+}

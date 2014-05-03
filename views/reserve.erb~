@@ -1,0 +1,27 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<title> THE HOTEL HOTEL </title>
+	<link rel="stylesheet" href="style2.css">
+</head>
+<body>
+	<h1> <a href=""> The Hotel Hotel </a> </h1>
+	<ul>
+		<li> <a href="about">About the hotel</a> </li>
+		<li> <a href="rooms">Accommodations on offer</a> </li>
+	</ul>
+<h2> Reserve a room.</h2>
+<p> Thank you for choosing Hotel Hotel! Just put in all the details we need to make your reservation: </p>
+<p> Room type: </p>
+<form name="input" action="newroom" method="post">
+<select name = "roomtype">
+  <option value="The Hotel Hotel Suite">The Hotel Hotel Suite</option>
+  <option value="Premium Bungalow">Premium Bungalow</option>
+  <option value="Regular Bungalow">Regular Bungalow (25% OFF!)</option>
+  <option value="Standard Room">Standard Room</option>
+</select> 
+<p> Date: <input type="date" name="date"> </p>
+<input type="submit" value="Submit">
+</form>
+</body>
+</html>

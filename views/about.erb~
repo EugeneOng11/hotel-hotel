@@ -1,0 +1,19 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<title> THE HOTEL HOTEL </title>
+	<link rel="stylesheet" href="style2.css">
+</head>
+<body>
+	<h1> <a href="home"> The Hotel Hotel </a> </h1>
+	<ul>
+		<li> <a href="rooms">Accommodations on offer</a> </li>
+		<li> <a href="reserve">Reserve a room</a> </li>
+	</ul>
+	<h2> About the Hotel Hotel. </h2>
+	<p> The Hotel Hotel has been the country's premier hotel since 1921. Situated in a one-of-a-kind hill which affords guests beautiful views of both the majestic peaks of the Sierra Sierra Mountains and the untouched, pristine waters of the Ocean Ocean, Hotel Hotel provides world-class amenities, efficient and hospitable service, and affordable lodging to everyone. </p>
+	<p> Our hotel is also home to the Buffet Buffet, the country's best buffet restaurant. Buffet Buffet offers more than a thousand award-winning dishes created by award-winning chefs from the freshest ingredients from sustaianable sources. Guests can expect to be more than full, with our complete range of amenities, including 12 Olympic-size swimming pools, zip lines, cable car rides, as well as guided hikes around the area. For the brave of heart, Hotel Hotel offers a trek up the Sierra Sierra mountains, assisted by the nation's best mountaineers.</p>
+	<p>Settle for nothing less. Settle only for the best. Book your reservation today.</p>
+</body>
+</html>
+
